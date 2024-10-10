@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Afzal Kha 
+- 👋 Hi, I’m Afzal Khan 
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Full Stack Development
 - 💞️ I’m looking to collaborate ...
